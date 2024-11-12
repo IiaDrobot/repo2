@@ -1,0 +1,126 @@
+    1  git-v
+    2  ssh-keygen.exe
+    3  cat
+    4  cat ~/.ssh/id_ed25519
+    5  ssh-i ~/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+    6  $ ssh -i ~/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+    7  ssh -i~/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+    8  ssh -i~/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+    9  ssh -i~/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   10  cat~/.ssh/id_ed25519
+   11  cat ~/.ssh/id_ed25519
+   12  ssh -i  ~/.ssh/id_ed25519 ec2-unser@linux.itcareerhub.de
+   13  ssh -i  ~/.ssh/id_ed25519 ec2-unser@linux.itcareerhub.de
+   14  ssh -i  ~/.ssh/id_ed25519 ec2-unser@linux.itcareerhub.de
+   15  ssh -i  ~/.ssh/id_ed25519 ec2-unser@linux.itcareerhub.de
+   16  ssh -i
+   17  ssh -i ~/.ssh/id_ed25519 ec2-unser@linux.itcareerhub.de
+   18  cat
+   19  ssh -i 
+   20  c/Users/user/.ssh/id_ed25519
+   21  ssh -i c/Users/user/.ssh/id_ed25519
+   22   
+   23  cat ~/.sshid_ed25519
+   24  cat ~/.ssh/id_ed25519    
+   25  ssh -i ~/.ssh/id_ed25519 ec2-unser@linux.itcareerhub.de
+   26   ssh -i ~/.ssh/id_ed25519 iia@linux.itcareerhub.de
+   27   ssh -i ~/.ssh/id_ed25519 iia@linux.itcareerhub.de
+   28  ssh -i /c/Users/user/.ssh/id_ed25519
+   29  ssh -i /c/Users/user/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   30  ssh -i /c/Users/user/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   31  ssh -i /c/Users/user/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de 
+   32  cat ~/.ssh/id_ed25519
+   33  ssh -i /c/Users/user/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   34  ssh -i /c/Users/user/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   35  ssh -i /c/Users/user/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   36  ssh -i /c/Users/user/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   37  ssh -i /c/Users/user/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   38  mkdir ~ /git_intro.git
+   39  pwd
+   40  mkdir ~/git_intro.git
+   41  cd git_intro.git
+   42  pwd
+   43  git init
+   44  ls -ls
+   45  touch file.txt
+   46  ls -la
+   47  git branch -M main
+   48  git remote add origin https://github.com/IiaDrobot/git_intro.git
+   49  git remote -v
+   50  git status
+   51  git add
+   52  git add .
+   53  git status
+   54  git commit -m "added photo"
+   55  git push -u origin main
+   56  git push -u origin main
+   57  exit
+   58  pwd
+   59  cd bashscripts
+   60  pwd
+   61  ls -a
+   62  git clone https://github.com/IiaDrobot/bashscripts.git
+   63  cd /bashscripts
+   64  cd bashscripts/
+   65  ls
+   66  git clone https://github.com/IiaDrobot/git--branch.git
+   67  git clone https://github.com/IiaDrobot/bashscripts.git
+   68  git clone https://github.com/IiaDrobot/bashscripts.git
+   69  git clone https://github.com/IiaDrobot/git---branch-2.git
+   70  cd git---branch-2/
+   71  git checkout -b gitignor
+   72  git branch -M gitignore
+   73  curl -O https://raw.githubusercontent.com/IiaDrobot/bashscripts/refs/heads/master/.gitignore
+   74  ls - a
+   75  ls -la
+   76  git add .gitignore 
+   77  git status
+   78  git commit -m
+   79  git commit -m "Add .gitignore file to gitignore branch"
+   80  git push -u origin gitignore
+   81  ssh -i /c/Users/user/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   82  ssh -i /c/Users/user/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   83  ssh -i /c/Users/user/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   84  ssh -i /c/Users/user/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   85  ssh -i /c/Users/user/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   86  ssh -i /c/Users/user/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   87  ssh -i /c/Users/user/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   88  ssh -i /c/Users/user/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   89  ssh -i /c/Users/user/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   90  ssh -i /c/Users/user/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   91  ssh -i /c/Users/user/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   92  ssh -i /c/Users/user/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   93  ssh -i /c/Users/user/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   94  touch .gitignore
+   95  pwd
+   96  ls -la
+   97  rm .gitignore
+   98  ls -la
+   99  pwd
+  100  cd /c/Users/user/GitHub
+  101  pwd
+  102  touch .gitignore
+  103  ls -la
+  104  touch README.md
+  105  touch README.md
+  106  ls -la
+  107  git clone https://github.com/IiaDrobot/repo8.git
+  108  cd repo8
+  109  pwd
+  110  git checkout -b feature
+  111  vim .gitignore
+  112  vim README.md
+  113  git add .
+  114  git commit -m "Обновлен .gitignore и README.md"
+  115  git push origin feature
+  116  git commit --amend -m "Добавлены изменения в README и .gitignore (ammend)"
+  117  git push --force origin feature
+  118  git checkout main
+  119  $ git checkout master
+  120  git branch
+  121  git branch -a
+  122  git branch main
+  123  git checkout main
+  124  git merge feature
+  125  git push origin main
+  126  history > history.txt
